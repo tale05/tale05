@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Tuan Anh!
 
-## 🧠 About Me
+## 😄 About Me
 
 I’m a software developer passionate about building **web applications** and **management software**. I specialize in both frontend and backend development, and I enjoy turning complex problems into simple and elegant solutions.
 
