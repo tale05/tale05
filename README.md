@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hello, I'm Tuan Anh!
 
-<!--
-**tale05/tale05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 About Me
 
-Here are some ideas to get you started:
+I’m a software developer passionate about building **web applications** and **management software**. I specialize in both frontend and backend development, and I enjoy turning complex problems into simple and elegant solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My experience includes working with:
+
+- 🖥 **ASP.NET Core** & C# WinForms
+- 🌐 **ReactJS**, JavaScript, HTML/CSS
+- 🗄 **SQL Server** and database design
+- ⚙ Git for version control, GitHub for collaboration
+- 🔐 Building custom middleware, authentication, rate limiting, and access control
+
+## 🎯 Goals
+
+I aim to grow my expertise in enterprise-level web application development, performance optimization, and scalable architecture. I'm always open to learning new technologies and sharing knowledge with the developer community.
+
+## 📫 Contact
+
+- Email: tuananhphamle0512@gmail.com  
+- Website: [https://tale05.github.io/web-portfolio](https://tale05.github.io/web-portfolio)  
+- GitHub: [github.com/tale05](https://github.com/tale05)
+
+
