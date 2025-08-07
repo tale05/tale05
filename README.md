@@ -18,8 +18,8 @@ I aim to grow my expertise in enterprise-level web application development, perf
 
 ## 📫 Contact
 
-- Email: tuananhphamle0512@gmail.com  
+- Email 1: tuananhphamle0512@gmail.com
+- Email 2: tuananhlae@gmail.com  
 - Website: [https://tale05.github.io/web-portfolio](https://tale05.github.io/web-portfolio)  
-- GitHub: [github.com/tale05](https://github.com/tale05)
 
 
